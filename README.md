@@ -1,9 +1,7 @@
 # crud-articles
 crud articles rtk, rtk-query, react,ts
 
-## Development
-
-The site uses some templating via 11ty. 
+## Development 
 
 ```bash
 # install dependencies
